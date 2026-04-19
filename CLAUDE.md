@@ -34,10 +34,10 @@ tools (semac, rsc) can produce correctly-typed binaries and
 projections. A build-time proc macro reading rkyv is the natural
 shape (same pattern as askic-assemble, which will read dsls.rkyv).
 
-## v0.18 Status: NOT YET IMPLEMENTED
+## v0.19 Status: NOT YET IMPLEMENTED
 
 This repo is a stub. Implementation waits on veri-core's proper
-redesign and veric's port to v0.18 aski-core.
+redesign and veric's port to v0.19 aski-core.
 
 ## Dependencies (planned)
 
